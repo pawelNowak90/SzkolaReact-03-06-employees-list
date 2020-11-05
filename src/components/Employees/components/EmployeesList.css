@@ -1,0 +1,14 @@
+div.employees-list{
+flex-grow:1;
+}
+
+div.employees-list ul{
+    list-style-type: none;
+}
+
+button{
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 5px;
+    cursor:pointer;
+}

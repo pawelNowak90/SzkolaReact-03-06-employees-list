@@ -1,0 +1,7 @@
+div.employees-details{
+    padding:20px;
+    flex-grow:1;
+}
+div.employees-details ul {
+    list-style-type: none;
+}
